@@ -1,9 +1,9 @@
 // ============================================
 // EDITOR DE IMÁGENES CON ÁLGEBRA MATRICIAL
 // ============================================
-// Nombre del estudiante: _________________
-// Fecha: _________________
-// Grupo: _________________
+// Nombre del estudiante: Gael Magaña Chan
+// Fecha: 11/19/25
+// Grupo: 1A
 
 const { PNG } = require('pngjs');
 const fs = require('fs');
